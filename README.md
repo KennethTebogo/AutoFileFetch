@@ -18,20 +18,20 @@ BeautifulSoup4 (if web scraping is needed)
 
 # Installation:
 1 Clone the repository:
-```bash
+`bash
 Copy
-git clone https://github.com/yourusername/WebFileDownloader.git
+git clone https://github.com/yourusername/WebFileDownloader.git`
 
 2 Navigate to the project directory:
-```bash
+`bash
 Copy
-cd WebFileDownloader
+cd WebFileDownloader`
 
 3 Install required dependencies:
 
-```bash
+`bash
 Copy
-pip install -r requirements.txt
+pip install -r requirements.txt`
 
 # Usage:
 
@@ -39,9 +39,9 @@ pip install -r requirements.txt
 2. Set the url variable to the website or page from which you want to download files.
 3. Define the destination folder where the files will be saved.
 4. Run the script:
-```bash
+`bash
 Copy
-python download_script.py
+python download_script.py`
 
 # Example:
 python
