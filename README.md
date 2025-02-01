@@ -46,7 +46,7 @@ python download_script.py`
 # Example:
 python
 Copy
-url ='https://phytochem.nal.usda.gov/4/biological-activities-chemicals-csv-export/'
+url ='https://phytochem.nal.usda.gov/biological-activities-chemicals-csv-export/'
 destination_folder = './downloads/'
 download_file(url, destination_folder)
 
