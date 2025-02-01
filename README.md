@@ -20,18 +20,18 @@ BeautifulSoup4 (if web scraping is needed)
 1 Clone the repository:
 ```bash
 Copy
-git clone https://github.com/yourusername/WebFileDownloader.git
+git clone https://github.com/yourusername/WebFileDownloader.git```
 
 2 Navigate to the project directory:
 ```bash
 Copy
-cd WebFileDownloader
+cd WebFileDownloader```
 
 3 Install required dependencies:
 
 ```bash
 Copy
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 # Usage:
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 4. Run the script:
 ```bash
 Copy
-python download_script.py
+python download_script.py```
 
 # Example:
 python
